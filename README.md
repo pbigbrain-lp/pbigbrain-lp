@@ -17,8 +17,7 @@
 
 ## 🤝 Let’s Connect
 📫 Reach me via: `pbigbrain.lp@proton.me`  
-🔗 [View my Hack The Box profile](https://app.hackthebox.com/profile/238306](https://app.hackthebox.com/profile/383330)  
-🔗 [Upwork portfolio](soon) *(if public)*
+🔗 [View my Hack The Box profile](https://app.hackthebox.com/profile/238306](https://app.hackthebox.com/profile/383330)
 
 ---
 
